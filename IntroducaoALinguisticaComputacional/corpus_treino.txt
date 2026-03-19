@@ -1,0 +1,5 @@
+<s> o boi brigou com a vaca </s>
+<s> a vaca brigou com o gato </s>
+<s> o gato brigou com a gata </s>
+<s> o boi brigou com a gata </s>
+<s> o gato brigou com a vaca </s>

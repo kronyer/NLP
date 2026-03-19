@@ -1,0 +1,5 @@
+0,sintagma, sentença, função
+1,sentido, ensino, gramática
+0,sentença, sujeito, sentido, sintagma
+1,ensino, gramática, sintagma
+1,sujeito, sentido, gramática, função
